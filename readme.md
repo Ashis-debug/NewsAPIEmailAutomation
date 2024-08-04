@@ -1,6 +1,3 @@
-Here's a sample `README.md` file for your project that explains its purpose, setup, usage, and additional details. This document is crucial for guiding others on how to use your code and making your project more accessible.
-
-```markdown
 # Tesla News Emailer
 
 This project fetches the latest Tesla news articles and sends them via email in a neatly formatted HTML format. It uses the [News API](https://newsapi.org/) to gather news articles about Tesla and sends an email using SMTP with Gmail.
@@ -24,8 +21,8 @@ Before running the project, ensure you have the following installed:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/tesla-news-emailer.git
-   cd tesla-news-emailer
+   git clone https://[github.com/your-username/NewsAPIEmailAutomation.git](https://github.com/Ashis-debug/NewsAPIEmailAutomation.git)
+   cd NewsAPIEmailAutomation
    ```
 
 2. **Install the required packages:**
