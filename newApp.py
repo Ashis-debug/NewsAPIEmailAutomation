@@ -22,7 +22,7 @@ def send_email(email_body):
     port = 465
 
     username = "ashistripathy897@gmail.com"
-    password = "ofqb ooir rzbg pktj"
+    password = ""
 
     receiver = "ashistripathy897@gmail.com"
     context = ssl.create_default_context()
