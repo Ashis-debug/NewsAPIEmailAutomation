@@ -131,5 +131,3 @@ For questions or support, please contact [Ashis Tripathy](mailto:ashistripathy89
 
 9. **Contact**:
    - Provides contact information for support and inquiries.
-
-Feel free to customize this README to better fit your project's specific details and style preferences.
